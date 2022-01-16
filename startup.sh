@@ -23,6 +23,6 @@ echo "
 #       ###### #    #   #   ###### #    # 
                                           
 MUSIC PLAYER USERBOT IS SUCCESSFULLY DEPLOYED!
-Support @musicwithalby
+Support @TeluguCrazyPeople
 "
 python3 main.py
